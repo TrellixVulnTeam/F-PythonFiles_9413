@@ -1,0 +1,2 @@
+It's a perfect day to learn Python!
+It's always a good day to code in Python!
